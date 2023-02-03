@@ -6,3 +6,6 @@
 6. git reset HEAD <file-name>
 7. git show HEAD
 8. git reset commit_SHA
+9. git branch <new-branch-name>
+10. git checkout <branch-name>
+11. git branch -d <branch-name>
